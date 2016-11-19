@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Domine|Vollkorn|Junction');
+.heading3{
+  text-align:center;
+  font-family: "Montserrat"  ;
+  margin-top:0px;
+  font-size:40px;
+  
+}
+.heading2{
+  text-align:center;
+    font-family:"Montserrat";
+  font-size:60px;
+  
+  
+}
+img{
+  }
+body{ 
+background-image:url("https://rawgit.com/ganes1410/Fcc_projects/master/dark_tint.png"),url("https://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2015/10/3052889-poster-p-2-the-issue-with-existing-batteries-is-that-they-suck.jpg");
+  opacity:60;
+   background-repeat:no-repeat;
+  background-size:cover;
+  background-position:center;
+}
+li
+{
+  padding:8px;
+  font-size:22px;
+  opacity:50;
+  font-family:Vollkorn;
+  color:rgb(81,142,96);
+}
+footer
+{
+  text-align:center;
+  text-style:bold;
+  color:white;
+}
+a{
+  text-decoration:none;
+}
+

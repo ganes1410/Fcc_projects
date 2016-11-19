@@ -1,0 +1,73 @@
+
+body {
+ 
+  background-color: #480F0F;
+  font-family: 'Muli', sans-serif;
+}
+
+h1 {
+  font-size: 40px;
+  font-family: 'Muli', sans-serif;
+  color: #E1BCBC;
+}
+
+.card {
+   width:60%;
+  background: #480F0F;
+  margin-left:60px;
+  height:10px;
+  padding:1%;
+  color: #E1BCBC;
+}
+
+.title > a {
+  color:#ABFFA8;
+  margin-left:30px;
+  width:30%;
+}
+
+p {
+  color: #E1BCBC;
+  font-size: 20px;
+}
+
+a {
+  margin-top: 12%;
+  color: #E1BCBC;
+  text-decoration: none;
+  display: block;
+  text-align: center;
+  font-size: 20px;
+}
+
+a:hover {
+  font-size: 25px;
+  color: #AAE8F3;
+  text-decoration: none;
+}
+
+#search_box {
+  width: 300px;
+  height: 30px;
+  background: white;
+  border-radius: 10px 10px;
+  border: 2px groove lightgreen;
+  background: #480F0F;
+  margin-top: 2%;
+  display: none;
+  color: white;
+  font-size: 20px;
+}
+
+.btn {
+  display: none;
+  height: 30px;
+}
+
+.glyphicon {
+  font-size: 50px;
+  margin-top: 2%;
+  text-align: center;
+  display: block;
+  color: lightgreen;
+}
